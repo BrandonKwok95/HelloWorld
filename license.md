@@ -1,3 +1,3 @@
 #  This is a version
-# version #2
-#  formally upload
+#  version #2
+#  check fast forward mode
